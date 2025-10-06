@@ -7,3 +7,8 @@
 
 ## 2. Dataset Selection
 ### I can use Google Finance or Yahoo Finance to train my model. I assume I still need to use them as testing data. And using the current data to test how the performance is.
+
+why is this long-short-term memory is suitable for this prediction?
+
+epochs: 10, outperforming model is CNN.
+epochs: 1000, outperforming model is GRU.
